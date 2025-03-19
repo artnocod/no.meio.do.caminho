@@ -1,4 +1,4 @@
-# Interactive Three.js Sphere
+# no.meio.do.caminho
 
 An interactive 3D sphere created with Three.js that responds to mouse interactions and displays dynamic text on its surface.
 
